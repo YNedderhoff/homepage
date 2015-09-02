@@ -32,30 +32,20 @@ owner:
   email: hey@yanick.xyz
   disqus-shortname:
   twitter: ynedderhoff
-  facebook: #username
-  google:
-    plus: yanicknedderhoff@gmail.com
+  google: 
+    plus: 
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
   github: ynedderhoff
+  bitbucket: ynedderhoff
   stackoverflow: 4566693/yanick-nedderhoff
   linkedin: ynedderhoff
-  xing: Yanick_Nedderhoff?
-  instagram: #username
+  xing: Yanick_Nedderhoff
   lastfm: DrFlaenders
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  soundcloud: ynedderhoff
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
