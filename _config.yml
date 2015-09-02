@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            Yanick Nedderhoff's Homepage
+locale:           de_DE
 url:
 
 
@@ -26,26 +26,26 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email:
+  name: Yanick Nedderhoff
+  avatar: passbild-2015.jpg
+  bio: "Computerlinguist, Gitarrist"
+  email: hey@yanick.xyz
   disqus-shortname:
-  twitter: #username
+  twitter: ynedderhoff
   facebook: #username
   google:
-    plus: #username
+    plus: yanicknedderhoff@gmail.com
     analytics:
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  xing: #username
+  github: ynedderhoff
+  stackoverflow: 4566693/yanick-nedderhoff
+  linkedin: ynedderhoff
+  xing: Yanick_Nedderhoff?
   instagram: #username
-  lastfm: #username
+  lastfm: DrFlaenders
   tumblr: #username
   pinterest: #username
   foursquare: #username
