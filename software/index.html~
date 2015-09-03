@@ -13,7 +13,7 @@ share: false
 ---
 Jede Software ist mittels eines Digital Object Identifiers (DOI) zitierbar. Wenn sie auf das entsprechende DOI-Symbol einer Software klicken, können Sie verschiedene Zitierstile (z.B. BibTex) exportieren.
 <ul>
-    <li><a href="https://github.com/YNedderhoff/cle-dependency-parser"><b>Chu-Liu/Edmonds’ Dependency Parser</b></a><br>
+    <li><a href="https://github.com/YNedderhoff/cle-dependency-parser"><b>Chu-Liu/Edmonds’ Dependency Parser</b></a>, <i>2015</i><br>
         <br>
         Ein in Python implementierter Dependency Parser auf Basis des MST-Algorithmus von Chu-Liu und Edmonds. Die Software wurde ursprünglich im Rahmen des Dependency Parsing Kurses an der Universität Stuttgart entwickelt.<br>
         <br>
