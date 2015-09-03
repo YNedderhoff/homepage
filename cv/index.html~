@@ -6,7 +6,7 @@ modified:
 excerpt:
 tags: []
 image:
-  feature: #indian-country-wide.jpg
+  feature: indian-country-wide.jpg
   credit: #Y. Nedderhoff
   creditlink: #http://yanicknedderhoff.com
 share: false
@@ -14,18 +14,14 @@ share: false
 
 <h1>Beruflicher Werdegang</h1>
 <ul>
-    <li>
     <b>VICO Research & Consulting GmbH, Leinfelden-Echterdingen</b><br>
     05/2013 - 09/2014: Werkstudent<br>
     <i>Querymodellierung, Sentimentannotation, Projektmanagement, Programmierung (Python), Übersetzung (Deutsch-Englisch), Erstellung von Präsentationen (PowerPoint)</i>
-    </li>
 </ul>
 <ul>
-    <li>
     <b>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart</b><br>
     04/2011 - 03/2013: Studentische Hilfskraft<br>
     <i>Prosodieannotation nach ToBI, orthographische Transkription von Audiodaten, Korrektur automatisch generierter Sampa-Transkriptionen</i>
-    </li>
 </ul>
 <ul>
     <li>
@@ -64,8 +60,3 @@ share: false
     08/1999 - 06/2008 
     </li>
 </ul>
-
-<h1>Sprachkenntnisse</h1>
-<ul>
-    <li><b>Deutsch:</b> Muttersprache</li>
-    <li><b>Englisch:</b> Fließend</li>

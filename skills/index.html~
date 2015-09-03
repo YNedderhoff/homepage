@@ -1,0 +1,50 @@
+---
+layout: page
+title: ""
+date: 
+modified:
+excerpt:
+tags: []
+image:
+  feature: indian-country-wide.jpg
+  credit: #Y. Nedderhoff
+  creditlink: #http://yanicknedderhoff.com
+share: false
+---
+
+<h1>Sprachkenntnisse</h1>
+<ul>
+    <b>Deutsch:</b> Muttersprache<br>
+    <b>Englisch:</b> Fließend<br>
+    <b>Portugiesisch:</b> Grundkenntnisse (B1)<br>
+    <b>Französisch:</b> Grundkenntnisse (Schulkenntnisse)<br>
+    <b>Madagassisch:</b> Ein paar Wörter<br>
+</ul>
+
+<h1>EDV-Kenntnisse</h1>
+<ul>
+    <li>
+    <b>Programmiersprachen:</b><br>
+    Python, Bash, Java, JavaScript, PHP
+    </li>
+    <li>
+    <b>Auszeichnungssprachen:</b><br>
+    Latex, HTML, CSS, XML-Technologien
+    </li>
+    <li>
+    <b>Programmierwerkzeuge:</b><br>
+    Git & GitHub, Eclipse, PyCharm, Brackets, Idle
+    </li>
+    <li>
+    <b>NLP-Werkzeuge:</b><br>
+    Weka, Moses, Festival
+    </li>
+    <li>
+    <b>Textverarbeitung:</b><br>
+    LibreOffice, Microsoft Office, Google Docs
+    </li>
+    <li>
+    <b>Betriebssysteme:</b><br>
+    Linux (Fedora, Ubuntu), Windows (7, 8)
+    </li>
+
