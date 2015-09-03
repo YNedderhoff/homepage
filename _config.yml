@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Yanick Nedderhoff's Homepage
+title:            Yanick Nedderhoff
 locale:           de_DE
 url:
 
@@ -29,7 +29,7 @@ owner:
   name: Yanick Nedderhoff
   avatar: passbild-2015.jpg
   bio: "Computerlinguist, Gitarrist"
-  email: hey@yanick.xyz
+  email: mail@nedderhoff.xyz
   disqus-shortname:
   twitter: ynedderhoff
   google: 
