@@ -2,7 +2,7 @@
 
 title:            Yanick Nedderhoff
 locale:           de_DE
-url:              http://www.yanicknedderhoff.com
+url:              http://www.nedderhoff.xyz
 
 
 # Jekyll configuration
@@ -34,7 +34,7 @@ owner:
   twitter: ynedderhoff
   google: 
     plus: 
-    analytics: UA-50484676-1
+    analytics: UA-67186682-1
     verify:
     ad-client:
     ad-slot:
