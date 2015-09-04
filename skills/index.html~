@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Fähigkeiten"
 date: 
 modified:
 excerpt:
-tags: []
+tags: [skills, fähigkeiten, kenntnisse, sprachkenntnisse, edv-kenntnisse]
 image:
   feature: indian-country-wide.jpg
   credit: #Y. Nedderhoff
@@ -21,7 +21,7 @@ share: false
     <b>Madagassisch:</b> Ein paar Wörter<br>
 </ul>
 
-<h1>EDV-Kenntnisse</h1>
+<h3>EDV-Kenntnisse</h3>
 <ul>
     <b>Programmiersprachen:</b><br>
     Python, Bash, Java, JavaScript, PHP

@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Lebenslauf"
 date: 
 modified:
 excerpt:
-tags: [lebenslauf, cv, curriculum vitae]
+tags: [lebenslauf, cv, curriculum vitae, beruflicher werdegang, ausbildung]
 image:
   feature: indian-country-wide.jpg
   credit: #Y. Nedderhoff
@@ -12,7 +12,7 @@ image:
 share: false
 ---
 
-<h1>Beruflicher Werdegang</h1>
+<h3>Beruflicher Werdegang</h3>
 <ul>
     <b>VICO Research & Consulting GmbH, Leinfelden-Echterdingen</b><br>
     05/2013 - 09/2014: Werkstudent<br>
@@ -34,7 +34,7 @@ share: false
     <i>Mobile soziale Dienste</i>
 </ul>
 
-<h1>Ausbildung</h1>
+<h4>Ausbildung</h4>
 
 <ul>
     <b>M.Sc. Computational Linguistics, Universität Stuttgart</b><br>
