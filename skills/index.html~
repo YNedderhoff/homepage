@@ -23,28 +23,26 @@ share: false
 
 <h1>EDV-Kenntnisse</h1>
 <ul>
-    <li>
     <b>Programmiersprachen:</b><br>
     Python, Bash, Java, JavaScript, PHP
-    </li>
-    <li>
+</ul>
+<ul>
     <b>Auszeichnungssprachen:</b><br>
     Latex, HTML, CSS, XML-Technologien
-    </li>
-    <li>
+</ul>
+<ul>
     <b>Programmierwerkzeuge:</b><br>
     Git & GitHub, Eclipse, PyCharm, Brackets, Idle
-    </li>
-    <li>
+</ul>
+<ul>
     <b>NLP-Werkzeuge:</b><br>
     Weka, Moses, Festival
-    </li>
-    <li>
+</ul>
+<ul>
     <b>Textverarbeitung:</b><br>
     LibreOffice, Microsoft Office, Google Docs
-    </li>
-    <li>
+</ul>
+<ul>
     <b>Betriebssysteme:</b><br>
     Linux (Fedora, Ubuntu), Windows (7, 8)
-    </li>
-
+</ul>
