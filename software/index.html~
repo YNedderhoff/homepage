@@ -17,7 +17,7 @@ Jede hier gelistete Software ist auf <a href="http://github.com/ynedderhoff">Git
 <ul>
     <a href="https://github.com/YNedderhoff/cle-dependency-parser"><b>Dependency Parser</b></a>, <i>2015</i><br>
     <br>
-    Ein in Python implementierter Dependency Parser auf Basis eines Perceptrons für das Machine Learning und des Chu-Liu/Edmonds' MST-Algorithmus für das Decoding. Die Software wurde ursprünglich im Rahmen des Dependency Parsing Kurses an der Universität Stuttgart entwickelt.<br>
+    Ein in Python implementierter Dependency Parser auf Basis eines Perceptrons für das Machine Learning und des MST-Algorithmus von Chu & Liu bzw. Edmonds für das Decoding. Die Software wurde ursprünglich im Rahmen des Dependency Parsing Kurses an der Universität Stuttgart entwickelt.<br>
     <br>
     Verfügbar unter der <a href="https://opensource.org/licenses/MIT">MIT-Lizenz</a>.<br>
     <br>
