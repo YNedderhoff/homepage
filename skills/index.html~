@@ -14,12 +14,41 @@ share: false
 
 <h3>Sprachen</h3>
 <ul>
-    <b>Deutsch:</b> Muttersprache<br>
-    <b>Englisch:</b> Fließend<br>
-    <b>Portugiesisch:</b> Grundkenntnisse (B1)<br>
-    <b>Französisch:</b> Grundkenntnisse (Schulkenntnisse)<br>
-    <b>Madagassisch:</b> Ein paar Wörter<br>
+    <b>Deutsch</b> - Muttersprache<br>
+    <b>Englisch</b> - Fließend<br>
+    <b>Portugiesisch</b> - Grundkenntnisse (B1)<br>
+    <b>Französisch</b> - Grundkenntnisse (Schulkenntnisse)<br>
+    <b>Madagassisch</b> - Ein paar Wörter<br>
 </ul>
+<!--
+<ul>
+    <table>
+      <col width=120>
+      <tr>
+        <td><b>Deutsch</b></td>
+        <td>Muttersprache</td>
+      </tr>
+      <tr>
+        <td><b>Englisch</b></td>
+        <td>Fließend</td>
+      </tr>
+      <tr>
+        <td><b>Portugiesisch</b></td>
+        <td>Grundkenntnisse (B1)</td>
+      </tr>
+      <tr>
+        <td><b>Französisch</b></td>
+        <td>Grundkenntnisse (Schulkenntnisse)</td>
+      </tr>
+      <tr>
+        <td><b>Madagassisch</b></td>
+        <td>Ein paar Wörter</td>
+      </tr>
+    </table>
+</ul>
+-->
+</body>
+</html>
 
 <h3>Technologien, Werkzeuge, Methoden</h3>
 <ul>
