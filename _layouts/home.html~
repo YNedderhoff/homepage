@@ -47,8 +47,6 @@
     {% endfor %}
     -->
 
-
-    <!--googleon: snippet-->
     <br>
     <b>Yanick Nedderhoff</b></br>
     <span style="color:darkgray"><i>B.Sc. Maschinelle Sprachverarbeitung</i></span><br>
@@ -56,6 +54,7 @@
     <a href="mailto:mail@nedderhoff.xyz" target="_blank"><i class="fa fa-fw fa-envelope"></i> mail@nedderhoff.xyz</a> <a href="http://www.nedderhoff.xyz/yanick-nedderhoff.asc" style="color:darkgray">(pgp)</a><br>
     <i class="fa fa-fw fa-phone"></i> +49 179 9093490</a><br>
     <br>
+    <!--googleon: snippet-->
     Ich bin Student im Masterstudiengang M.Sc. Computational Linguistics am Institut für maschinelle Sprachverarbeitung der Universtiät Stuttgart.<br>
     <br>
     Zuletzt habe ich mich überwiegend mit folgenden Themen beschäftigt:
