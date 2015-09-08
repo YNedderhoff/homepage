@@ -4,14 +4,14 @@ title: "Software"
 date: 
 modified:
 excerpt:
-tags: [software, programme]
+tags: [software, programme, classifier, parser, part of speech, tagger]
 image:
   feature: indian-country-wide.jpg
   credit: #Y. Nedderhoff
   creditlink: #http://yanicknedderhoff.com
 share: false
 ---
-Jede hier gelistete Software habe ich alleine oder in Zusammenarbeit entwickelt, ist auf <a href="http://github.com/ynedderhoff">GitHub</a> offen verfügbar und mittels eines Digital Object Identifiers (DOI) zitierbar.
+Jede hier gelistete Software habe ich alleine oder in Zusammenarbeit entwickelt. Die Programme sind auf <a href="http://github.com/ynedderhoff">GitHub</a> offen verfügbar und mittels eines Digital Object Identifiers (DOI) zitierbar.
 
 
 <ul>
