@@ -1,4 +1,6 @@
 User-agent: *
 Disallow: /impressum
-/impressum/
+Disallow: /impressum/
+Disallow: /impressum/*
 Allow: /
+Sitemap: http://www.nedderhoff.xyz/sitemap.xml
