@@ -4,7 +4,7 @@ title: "Lebenslauf"
 date: 
 modified:
 excerpt: Ein Überblick über meinen bisherigen beruflichen Werdegang sowie meine schulische und akademische Ausbildung.
-tags: [lebenslauf, cv, curriculum vitae, beruflicher werdegang, ausbildung, Semantische Keywordmodellierung, Übersetzung, lexikographie, Python-Programmierung, Sentimentannotation, Kundenkommunikation, Projektmanagement, Prosodieannotation, ToBI, Transkription, Sampa, Baumautomaten, Informationsmanagement, Korpuslinguistik, Machine Learning, Parsing, Sentimentanalyse, Statistische Semantik, Verarbeitung natürlicher Sprache, Web Services, Informatik, Information Retrieval, Künstliche Intelligenz, Phonetik & Phonologie, Semantic Web, Software Engineering, Statistische Semantik]
+tags: [lebenslauf, cv, curriculum vitae, beruflicher werdegang, ausbildung]
 image:
   feature: indian-country-wide.jpg
   credit: #Y. Nedderhoff
@@ -16,12 +16,12 @@ Mein Lebenslauf ist auch als Download <a href="http://nedderhoff.xyz/files/cv.pd
 <ul>
     <b>Freiberufliche Tätigkeiten im Bereich Computerlinguistik, Stuttgart</b><br>
     07/2015 - dato<br>
-    <i>Semantische Keywordmodellierung, Übersetzung (DE-EN), lexikographische Arbeiten</i>
+    <i>Querymodellierung, Übersetzung (DE-EN), lexikographische Arbeiten</i>
 </ul>
 <ul>
     <b>VICO Research & Consulting GmbH, Leinfelden-Echterdingen</b><br>
     05/2013 - 09/2014: Werkstudent<br>
-    <i>Python-Programmierung, semantische Keywordmodellierung, Sentimentannotation, Kundenkommunikation (DE/EN), Projektmanagement, lexikographische Arbeiten, Übersetzung (DE-EN), Präsentationen</i>
+    <i>Python-Programmierung, Anpassung von Sentiment-Systemen, Querymodellierung, Kundenkommunikation (DE/EN), lexikographische Arbeiten, Übersetzung (DE-EN), Präsentationen</i>
 </ul>
 <ul>
     <b>Institut für maschinelle Sprachverarbeitung, Universität Stuttgart</b><br>
@@ -55,7 +55,7 @@ Mein Lebenslauf ist auch als Download <a href="http://nedderhoff.xyz/files/cv.pd
 <ul>
     <b>B.Sc. Maschinelle Sprachverarbeitung, Universität Stuttgart</b><br>
     10/2009 - 03/2013<br>
-    <i>Informatik, Information Retrieval, Künstliche Intelligenz, Phonetik & Phonologie, Semantic Web, Software Engineering, Statistische Semantik</i>
+    <i>Grundlagen der Informatik, Information Retrieval, Künstliche Intelligenz, Phonetik & Phonologie, Semantic Web, Software Engineering, Statistische Semantik</i>
     <br>
     <br>
     <u>Thesis:</u><br>
