@@ -10,6 +10,7 @@ image:
   credit: #Y. Nedderhoff
   creditlink: #http://yanicknedderhoff.com
 share: false
+sitemap: false
 ---
 <!--googleoff: all-->
 Angaben gemäß § 5 TMG
