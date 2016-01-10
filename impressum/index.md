@@ -16,8 +16,8 @@ sitemap: false
 Angaben gemäß § 5 TMG
 <br><br>
 Yanick Nedderhoff<br>
-Eduard-Pfeiffer-Straße 2<br>
-70192 Stuttgart<br>
+Hartwaldstr. 8<br>
+70378 Stuttgart<br>
 <br>
 **Vertreten durch:**
 Yanick Nedderhoff
